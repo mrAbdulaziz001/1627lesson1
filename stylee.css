@@ -1,0 +1,18 @@
+h1{
+    text-align: center; 
+    border: 2px solid red; 
+    background-color:cornflowerblue; 
+    border-radius: 50px;
+ 
+}
+
+h3{
+    background-color: yellow; 
+    text-align: center;
+}
+h2{
+    text-align: center; background-color: yellow;
+}
+h4{
+    text-align: center;
+}
